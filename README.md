@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on being less insulting to friends and family.
   - 🌱 I’m currently learning Python and **Markdown**.
-    - 👯 I’m looking to collaborate on World Peace with Metta World Peace.
+    - 👯 I’m looking to collaborate on World Peace w/ Metta World Peace.
       - 🤔 I’m looking for help with loops and algorithims.
         - 💬 Ask me about donating to my PayPal ACCT!
           - 📫 How to reach me: krroseng(at)gmail(dot)com
