@@ -7,9 +7,9 @@ Here are some ideas to get you started:
 -->
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="A not too impressive image." src="YOUR-DEFAULT-IMAGE">
+ <source media="(prefers-color-scheme: dark)" srcset="https://cdn.pixabay.com/photo/2016/07/02/12/21/eclipse-1492818_1280.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="https://cdn.pixabay.com/photo/2014/03/26/17/50/sunset-298850_1280.jpg">
+ <img alt="A not too impressive image." src="https://cdn.pixabay.com/photo/2017/10/04/12/35/the-sun-2816097_1280.jpg">
 </picture>
 
 0
