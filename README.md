@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 0
 
 
-- 🔭 I’m currently working on being less insulting to friends and family.
+- 🔭 I’m currently working on being ~~more~~ less insulting to friends & family.
   - 🌱 I’m currently learning Python and **Markdown**.
     - 👯 I’m looking to collaborate on World Peace w/ Metta World Peace.
       - 🤔 I’m looking for help with loops and algorithims.
