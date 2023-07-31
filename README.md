@@ -21,6 +21,6 @@ Here are some ideas to get you started:
       - 🤔 I’m looking for help with loops and algorithims.
         - 💬 Ask me about donating to my PayPal ACCT!
           - 📫 How to reach me: krroseng(at)gmail(dot)com
-            - 😄 Pronouns: I, me, mine.
+            - 😄 Pronouns: I, me, me, mine.
               - ⚡ Fun fact: 
 
