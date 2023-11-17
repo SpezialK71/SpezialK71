@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on being ~~more~~ less insulting to friends & family.
   - 🌱 I’m currently learning Python and **Markdown**.
     - 👯 I’m looking to collaborate on World Peace w/ Metta World Peace.
-      - 🤔 I’m looking for help with loops and algorithims.
+      - 🤔 I’m looking for help with list comprehensions and algorithims.
         - 💬 Ask me about donating to my PayPal ACCT!
           - 📫 How to reach me: krroseng(at)gmail(dot)com
             - 😄 Pronouns: I, me, me, mine.
