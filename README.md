@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 
 <picture>
@@ -7,7 +7,7 @@
  <img alt="A not too impressive image." src="https://cdn.pixabay.com/photo/2017/10/04/12/35/the-sun-2816097_1280.jpg">
 </picture>
 
-0
+$\scriptsize Zero$
 
 
 - 🔭 I’m currently working on being ~~more~~ less insulting to friends & family.
