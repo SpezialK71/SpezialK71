@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**SpezialK71/SpezialK71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.pixabay.com/photo/2016/07/02/12/21/eclipse-1492818_1280.jpg">
