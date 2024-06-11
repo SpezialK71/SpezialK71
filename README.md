@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋😀
 
 
 <picture>
@@ -11,7 +11,7 @@ $\scriptsize Zero$
 
 
 - 🔭 I’m currently working on being ~~more~~ less insulting to friends & family.
-  - 🌱 I’m currently learning Python and `Markdown`.
+  - 🌱 I’m currently learning Python and `Markdown` and some $\LaTeX$.
     - 👯 I’m looking to collaborate on World Peace w/ Metta World Peace.
       - 🤔 I’m looking for help with list comprehensions and algorithims.
         - 💬 Ask me about donating to my PayPal ACCT!
